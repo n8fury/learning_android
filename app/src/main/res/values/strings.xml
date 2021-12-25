@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Demo APP</string>
+    <string name="demo_text">This is Fun!!</string>
+    <string name="demo_text_2">No button is clicked</string>
+    <string name="author_name">HLW THIS IS MAMDUD HASAN</string>
+    <string name="mood">🙂</string>
+    <string name="login_button">Login</string>
+    <string name="logout_button">Logout</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda dolore dolorem neque quam recusandae.
+        Asperiores atque culpa enim esse id maiores, molestias mollitia repellendus sapiente tempora. A amet animi corporis debitis
+        distinctio, ducimus eum iste libero mollitia natus necessitatibus obcaecati officia praesentium quasi, quis quos repellendus
+        reprehenderit saepe sint tempore ullam veniam vitae. A debitis dolorum in minima natus nostrum quisquam recusandae! Beatae
+        debitis ducimus error, eveniet iusto modi non voluptas voluptatibus. Iure, quasi qui.</string>
+    <string name="Edittext_2">Enter 2nd Number</string>
+    <string name="Edittext_1">Enter 1st number</string>
+    <string name="subtract">Subtract</string>
+    <string name="add">Add</string>
+    <string name="empty_result">Result = </string>
+    <string name="_1st_image">1st_image</string>
+    <string name="custom_toast">custom toast</string>
+    <string name="todo">TODO</string>
+    <string name="next_page">Next Page</string>
+    <string name="nxt_page">nxt_page</string>
+
+</resources>
